@@ -161,7 +161,7 @@ In the next labs:
 
 Let's open our editor and create a file named *hello.js*
 
-```javascript
+```javascript runnable
 /* Hello World! program in Node.js */
 console.log("Hello World!");
 ```
