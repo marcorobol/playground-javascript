@@ -1,21 +1,10 @@
----
-theme: default
-_class: lead
-paginate: true
-backgroundColor: #fff
-marp: true
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: '01 - Introduction to Web2.0, Javascript and Node.js'
-footer: 'Marco Robol - Trento, 2023 - Software Engineering'
----
-
 # **Introduction to Web2.0, Javascript and Node.js**
 
 Software Engineering
 
 #### Marco Robol - marco.robol@unitn.it
 
-*Academic year 2023/2024 - Second semester*
+*Academic year 2023/2024*
 
 ---
 
